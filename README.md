@@ -720,7 +720,7 @@ realtime_thermal.csv
 
 and starts processing new thermal samples.
 
-📉 Visualization
+Visualization
 
 Thermal data can be visualized to analyze the behavior of the three zones over simulation time.
 
@@ -775,7 +775,8 @@ Stable Temperature Verification
 Temperature unchanged
       ↓
 Trend = NORMAL
-⚡ Key Features
+
+Key Features
 ✅ SystemVerilog RTL implementation
 ✅ Three thermal zones
 ✅ Parameterized digital temperature sensors
@@ -808,7 +809,7 @@ Intelligent Thermal Monitoring
 
 The AI layer provides an additional prediction mechanism that can potentially support proactive thermal management.
 
-🔮 Future Enhancements
+Future Enhancements
 
 The following improvements can be added in future versions:
 
@@ -915,7 +916,8 @@ Scikit-learn
 Joblib
 CSV data pipelines
 Real-time file monitoring
-📌 Project Highlights
+
+ Project Highlights
 RTL Technology      : SystemVerilog
 Simulation Tool     : AMD/Xilinx Vivado
 Temperature Zones   : 3
@@ -927,12 +929,11 @@ ML Algorithm        : Random Forest
 ML Accuracy         : 95.20%
 Data Interface      : CSV
 AI Language         : Python
+
+
 👨‍💻 Author
-Jaivignesh M
-
+##Jaivignesh M##
 B.E. Electronics and Communication Engineering
-
 University College of Engineering Kanchipuram
 Anna University
-
-Batch: 2022–2026
+Batch: 2023–2027
