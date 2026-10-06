@@ -645,7 +645,7 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/jaivignesh25/AI-VLSI-Thermal-Monitoring
+git clone https://github.com/jaivignesh25/AI-Based-Thermal-Monitoring-System-for-VLSI-Chips
 
 Move into the project:
 
